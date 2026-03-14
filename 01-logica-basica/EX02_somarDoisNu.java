@@ -1,0 +1,11 @@
+import java.util.Scanner;
+public class EX02_somarDoisNu {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        int a = 4;
+        int b = 5;
+        int soma = a + b;
+        System.out.println("soma é: "+ soma);
+    }
+    
+}
